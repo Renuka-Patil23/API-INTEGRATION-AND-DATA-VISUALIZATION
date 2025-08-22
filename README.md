@@ -38,3 +38,7 @@ These outcomes are directly applicable to real-world data science, business anal
 
 The API Integration and Data Visualization project demonstrates the end-to-end process of transforming raw, real-time data into actionable insights. It highlights the importance of APIs for data retrieval and the role of visualization in simplifying complex datasets. By combining Python programming with analytical thinking, the project equips learners with skills that are vital in today’s data-centric world. Ultimately, this project serves as an excellent stepping stone into advanced areas of data science, analytics, and machine learning.
 
+**Output**:- 
+
+<img width="873" height="704" alt="Image" src="https://github.com/user-attachments/assets/5f88b21c-01db-4450-b13b-8469eb204410" />
+
