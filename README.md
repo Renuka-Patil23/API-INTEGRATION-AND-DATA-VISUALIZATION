@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*:Renuak Vinod Patil 
+*NAME*: Renuka Vinod Patil 
 
 *INTERN ID*: CT08DH1010
 
